@@ -1,0 +1,1 @@
+export { GftSearchComponent } from './src/GftSearchComponent.js';
